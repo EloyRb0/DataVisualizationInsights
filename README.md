@@ -29,7 +29,6 @@ python src/run_analysis.py --input clean_salesforce_report.csv --outdir outputs
 - `outputs/chart_attendance_rate_by_country.png`
 - `outputs/insights.md`
 
-## Actionable insights (sample)
 # Actionable Insights
 
 - '[Workshop] Crea tu primer GPT (2024)' attracts many registrations (431) but converts poorly (26%). Add reminder emails/SMS and calendar invites.
